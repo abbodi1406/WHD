@@ -1,0 +1,43 @@
+# Info
+
+* The following security updates are not needed, because later non-security updates  
+replace them and include the same security fixes.
+
+* However, due metadata rules, Windows Update might still offer those updates, especially for non-suite products.
+
+* Those updates are only needed to satisfy (silence) Windows Update.
+
+* You have the choice to install them, or leave and ignore in WU.
+
+* For more information:  
+https://learn.microsoft.com/officeupdates/msp-files-office-2016
+
+______________________________
+
+32-Bit Edition (x86)
+
+https://download.microsoft.com/download/9/e/a/9ea9fb26-11f2-4aec-8a31-3fe60cf4502b/access2016-kb4504711-fullfile-x86-glb.exe
+https://download.microsoft.com/download/a/d/b/adb15ac3-fe71-4c37-bd09-d28f4dfbfcc4/ace2016-kb5002115-fullfile-x86-glb.exe
+https://download.microsoft.com/download/7/B/3/7B32EB2A-0496-43FD-88E4-82BF4B236B7A/chart2016-kb4018319-fullfile-x86-glb.exe
+https://download.microsoft.com/download/9/C/A/9CAB2FA9-FC3F-4539-971A-7EAC426E9DEC/lync2016-kb4475545-fullfile-x86-glb.exe
+https://download.microsoft.com/download/d/5/a/d5aa03b4-f8cf-4152-a764-672ef45aaa96/msodll202016-kb4504745-fullfile-x86-glb.exe
+https://download.microsoft.com/download/2/2/7/227c605d-26f5-46c8-803c-19864bee7e3e/msodll40ui2016-kb5002026-fullfile-x86-glb.exe
+https://download.microsoft.com/download/5/B/D/5BD34E3A-567A-4FAC-A69D-41C74DDCD929/osetup2016-kb4022172-fullfile-x86-glb.exe
+https://download.microsoft.com/download/b/8/7/b87da4cc-4b19-4d28-96ed-f0ae1cefd0e3/riched202016-kb5002058-fullfile-x86-glb.exe
+https://download.microsoft.com/download/8/1/4/8147ac76-c431-4693-ab52-ff16b49fbe55/stslist2016-kb5002052-fullfile-x86-glb.exe
+https://download.microsoft.com/download/a/b/a/aba88491-8a65-4797-80b9-e8bcece88d27/vbe72016-kb5002112-fullfile-x86-glb.exe
+
+______________________________
+
+64-Bit Edition (x64)
+
+https://download.microsoft.com/download/6/8/1/6811a1c8-a8c6-491f-836b-6d561b242ebb/access2016-kb4504711-fullfile-x64-glb.exe
+https://download.microsoft.com/download/c/9/1/c9109b56-ffa1-47b8-9c8c-8e3a7f2bf2a2/ace2016-kb5002115-fullfile-x64-glb.exe
+https://download.microsoft.com/download/9/6/E/96E8CC81-DDCE-4AF5-A0C1-517043756333/chart2016-kb4018319-fullfile-x64-glb.exe
+https://download.microsoft.com/download/E/7/E/E7E9DF36-4718-4FAB-9663-0630840A1202/lync2016-kb4475545-fullfile-x64-glb.exe
+https://download.microsoft.com/download/0/f/8/0f8ce447-17bf-41e2-a58e-e7d789222e1e/msodll202016-kb4504745-fullfile-x64-glb.exe
+https://download.microsoft.com/download/c/b/c/cbc3715c-82ea-461b-a6f3-0e35d9b6bb75/msodll40ui2016-kb5002026-fullfile-x64-glb.exe
+https://download.microsoft.com/download/6/5/B/65B0AE3E-ED74-4138-AF8F-FE20B1F00DD7/osetup2016-kb4022172-fullfile-x64-glb.exe
+https://download.microsoft.com/download/1/6/2/162ee3dd-9f3e-4503-841c-a29014d201cd/riched202016-kb5002058-fullfile-x64-glb.exe
+https://download.microsoft.com/download/8/b/c/8bc084e3-ba58-45b2-9fe8-38fcb341947f/stslist2016-kb5002052-fullfile-x64-glb.exe
+https://download.microsoft.com/download/f/7/0/f7022887-e0a3-48d5-aa61-ba413f002eac/vbe72016-kb5002112-fullfile-x64-glb.exe
