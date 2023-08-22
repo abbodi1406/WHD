@@ -1,0 +1,112 @@
+Microsoft .NET Framework 4.8.1 Language Packs (KB5027937) for:
+- Windows 10 versions 20H2-22H2
+- Windows 11 version 21H2
+- Windows Server 2022
+- Azure Stack HCI versions 21H2/22H2
+
+- Make sure to install update KB5011048 first
+- You need to install the file matching your system's display language.
+- You can install multiple files if your system has more than one display language.
+- If your language is not listed, then your system do not need extra language pack.
+
+================================================================
+
+Download 64-bit (x64):
+
+Arabic (ar-SA)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011049-x64_6789d5ad63d1f07ca00741c09ecf6eb188665bde.msu
+Chinese-China (zh-CN)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011050-x64_b7f46027cf6d471f3fbd2444df0d0dcaaf2f785c.msu
+Chinese-Taiwan (zh-TW)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011051-x64_106ba55348d3e64c77f7d30fa54efc718779a8c0.msu
+Czech (cs-CZ)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011052-x64_e2d9592e5330123c71614f86e043eb65383c8e51.msu
+Danish (da-DK)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011053-x64_06f74c37d1185848cdfb33c3d80c6588cca4b3a0.msu
+German (de-DE)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011054-x64_1ef84e0c277cc4aef2b8ea39a6d01b542fe57af8.msu
+Greek (el-GR)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011055-x64_f522384ab117f4bf4976b8852451c228af4a9c9c.msu
+Spanish (es-ES)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011056-x64_335d3442853e0a5ac563953a75037736f620e4ca.msu
+Finnish (fi-FI)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011057-x64_58e1de048bc5ff5e67316960a08af9e7ad295dc0.msu
+French (fr-FR)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011058-x64_f3c752ac49b4c61907c170038d78175807e27a7a.msu
+Hebrew (he-IL)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011059-x64_f59ac957e03eb2e43d66ebd93232553c13c6bc20.msu
+Hungarian (hu-HU)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011060-x64_710be08e40db6706246b13c95bd95681b95c08c5.msu
+Italian (it-IT)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011061-x64_ee41671730708aba93d42dc517486ed112c0a142.msu
+Japanese (ja-JP)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011062-x64_17ddb48a7c5647840b43ef48afea987c9c9edae4.msu
+Korean (ko-KR)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011063-x64_c7f4e40abc59b8d7d2d031bda9c715c7e32575fb.msu
+Dutch (nl-NL)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011064-x64_c3b2f1c6c73c9468b7b2075306b0762f3a11d51f.msu
+Norwegian (nb-NO)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011065-x64_e1e376e30e6269442bafb1025b0c79902bf35e9e.msu
+Polish (pl-PL)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011066-x64_28dbd9acfdc2059e238e49ef76fe642b26c3ff51.msu
+Portuguese - Brazil (pt-BR)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011067-x64_6f24956a28ececfb26923ee96bf4b84999f1c694.msu
+Portuguese - Portugal (pt-PT)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011068-x64_ccbad7e2c272420230991841a513022a2ea296e8.msu
+Russian (ru-RU)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011069-x64_071bb616467d63c877cbbc7dab3b1321abba0ad7.msu
+Swedish (sv-SE)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011070-x64_d5c30b09484c39a80a3e643b5ddf4d5dcfca6ea8.msu
+Turkish (tr-TR)
+http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011071-x64_599f1aaf0bcd81559c647bbafb79724ea3b49cf2.msu
+
+================================================================
+
+Download 32-bit (x86):
+
+Arabic (ar-SA)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011049-x86_9d2673d56f6c4376b97316f74bd29961838fec94.msu
+Chinese-China (zh-CN)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011050-x86_d542c979ed8093b6cc2cdc4d77c6eb504b946dc1.msu
+Chinese-Taiwan (zh-TW)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011051-x86_f3489ed9dcfe3bb1934218a60370aec8f77927d3.msu
+Czech (cs-CZ)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011052-x86_fcf19bc857a6f1a2eb247f4950a06d90b1f28fcf.msu
+Danish (da-DK)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011053-x86_2f60eeae0b20eb478e29a67e19526e723022ffb7.msu
+German (de-DE)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011054-x86_7262b2d0fbf79e39c30061be8ba34a7f86f6dbe3.msu
+Greek (el-GR)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011055-x86_ef5bf621ca24bd54e156368b264f57e2171f8ea5.msu
+Spanish (es-ES)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011056-x86_569394952ee5f29655439f5126c5e3df88ce1774.msu
+Finnish (fi-FI)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011057-x86_b6362289a8f91fae09e87a2c0f02dbfcbf8a3b7b.msu
+French (fr-FR)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011058-x86_09769937c504ba830627ecbac9986e1196ff33c3.msu
+Hebrew (he-IL)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011059-x86_a25640e7b9d804303f20ef64ef905d92a45d1f9a.msu
+Hungarian (hu-HU)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011060-x86_56183a42046a52eed99dec31aee2ec14f1497a6b.msu
+Italian (it-IT)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011061-x86_7dac8e7aa17f74cc0fe3d1e72e6fc463cb08fc21.msu
+Japanese (ja-JP)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011062-x86_5143e65cbf26d776247ee499d095468856dea731.msu
+Korean (ko-KR)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011063-x86_4abf8458aada3c324b8d13b0c0719a628c8c88e9.msu
+Dutch (nl-NL)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011064-x86_7cf16422cfe1c11f5220a17f1ee814e382771434.msu
+Norwegian (nb-NO)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011065-x86_8f4275f7c73e9789c237b2c94f646006be52fc29.msu
+Polish (pl-PL)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011066-x86_4eb1e404bb6b0aa225727c01725b62e8b880d208.msu
+Portuguese - Brazil (pt-BR)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011067-x86_51edfbf7260e9347a1dbb5bd55f6e289105c3d28.msu
+Portuguese - Portugal (pt-PT)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011068-x86_1a240bc3e821f9bfe1ebd7c2148628d27ed2ce0a.msu
+Russian (ru-RU)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011069-x86_90b3e86bec34bd54034889e27804a5c745337ad7.msu
+Swedish (sv-SE)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011070-x86_83eb15c2205ea85990ec6d0a226ce435e57a2ff6.msu
+Turkish (tr-TR)
+http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2023/06/windows10.0-kb5011071-x86_0f3e3d9249064a7cd5b22d8bf49abb95c417a83b.msu
