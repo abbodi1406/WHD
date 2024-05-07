@@ -23,6 +23,8 @@ New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Privacy' -Force -
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Security\FileValidation' -Force -EA 0
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Firstrun' -Force -EA 0
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Lync' -Force -EA 0
+New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Outlook\Options\Mail' -Force -EA 0
+New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\Word\Options' -Force -EA 0
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\OSM' -Force -EA 0
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\OSM\PreventedApplications' -Force -EA 0
 New-Item 'HKCU:\Software\Policies\Microsoft\Office\16.0\OSM\PreventedSolutiontypes' -Force -EA 0
