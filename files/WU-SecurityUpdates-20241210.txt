@@ -41,3 +41,13 @@ https://download.microsoft.com/download/6/5/B/65B0AE3E-ED74-4138-AF8F-FE20B1F00D
 https://download.microsoft.com/download/1/6/2/162ee3dd-9f3e-4503-841c-a29014d201cd/riched202016-kb5002058-fullfile-x64-glb.exe
 https://download.microsoft.com/download/8/b/c/8bc084e3-ba58-45b2-9fe8-38fcb341947f/stslist2016-kb5002052-fullfile-x64-glb.exe
 https://download.microsoft.com/download/f/7/0/f7022887-e0a3-48d5-aa61-ba413f002eac/vbe72016-kb5002112-fullfile-x64-glb.exe
+
+______________________________
+
+Note: the following update is only for Access ar-sa
+
+x86
+https://download.microsoft.com/download/9/b/2/9b24b1e9-ad49-4c09-9e50-2dfd297be72d/patchca2016-kb2920716-fullfile-x86-glb.exe
+
+x64
+https://download.microsoft.com/download/7/a/1/7a11c71c-dff7-42b2-9718-362a6de2eaf2/patchca2016-kb2920716-fullfile-x64-glb.exe
