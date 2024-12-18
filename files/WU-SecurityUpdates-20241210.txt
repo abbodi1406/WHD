@@ -44,7 +44,7 @@ https://download.microsoft.com/download/f/7/0/f7022887-e0a3-48d5-aa61-ba413f002e
 
 ______________________________
 
-Note: the following update is only for Access ar-sa
+Note: the following update may not be applicable for all products
 
 x86
 https://download.microsoft.com/download/9/b/2/9b24b1e9-ad49-4c09-9e50-2dfd297be72d/patchca2016-kb2920716-fullfile-x86-glb.exe
