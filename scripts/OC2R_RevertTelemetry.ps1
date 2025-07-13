@@ -6,6 +6,7 @@ Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'disablebootto
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'qmenable' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'sendcustomerdata' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'updatereliabilitydata' -Force -EA 0
+Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'linkedin' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'disableboottoofficestart' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'disablecomingsoon' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'optindisable' -Force -EA 0
@@ -14,6 +15,8 @@ Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'Shown
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'skydrivesigninoption' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'enabled' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'includescreenshot' -Force -EA 0
+Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'includeemail' -Force -EA 0
+Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'surveyenabled' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'disableboottoofficestart' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'serviceleveloptions' -Force -EA 0
 Remove-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'useonlinecontent' -Force -EA 0

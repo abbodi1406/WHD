@@ -9,6 +9,7 @@ Windows Registry Editor Version 5.00
 "qmenable"=dword:00000000
 "sendcustomerdata"=dword:00000000
 "updatereliabilitydata"=dword:00000000
+"linkedin"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\General]
 "disableboottoofficestart"=dword:00000001
@@ -21,6 +22,8 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Feedback]
 "enabled"=dword:00000000
 "includescreenshot"=dword:00000000
+"includeemail"=dword:00000000
+"surveyenabled"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Internet]
 "disableboottoofficestart"=dword:00000001
@@ -83,6 +86,7 @@ Windows Registry Editor Version 5.00
 "qmenable"=dword:00000000
 "sendcustomerdata"=dword:00000000
 "updatereliabilitydata"=dword:00000000
+"linkedin"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Common\General]
 "disableboottoofficestart"=dword:00000001
@@ -95,6 +99,8 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Common\Feedback]
 "enabled"=dword:00000000
 "includescreenshot"=dword:00000000
+"includeemail"=dword:00000000
+"surveyenabled"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Common\Internet]
 "disableboottoofficestart"=dword:00000001

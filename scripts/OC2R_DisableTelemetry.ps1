@@ -34,6 +34,7 @@ New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'disableboottooff
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'qmenable' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'sendcustomerdata' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'updatereliabilitydata' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common' 'linkedin' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'disableboottoofficestart' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'disablecomingsoon' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'optindisable' -Value 1 -Type DWord -Force
@@ -42,6 +43,8 @@ New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'ShownFil
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\General' 'skydrivesigninoption' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'enabled' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'includescreenshot' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'includeemail' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Feedback' 'surveyenabled' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'disableboottoofficestart' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'serviceleveloptions' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Microsoft\Office\16.0\Common\Internet' 'useonlinecontent' -Value 0 -Type DWord -Force
@@ -78,6 +81,7 @@ New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common' 'disable
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common' 'qmenable' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common' 'sendcustomerdata' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common' 'updatereliabilitydata' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common' 'linkedin' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\General' 'disableboottoofficestart' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\General' 'disablecomingsoon' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\General' 'optindisable' -Value 1 -Type DWord -Force
@@ -86,6 +90,8 @@ New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\General' 
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\General' 'skydrivesigninoption' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Feedback' 'enabled' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Feedback' 'includescreenshot' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Feedback' 'includeemail' -Value 0 -Type DWord -Force
+New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Feedback' 'surveyenabled' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Internet' 'disableboottoofficestart' -Value 1 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Internet' 'serviceleveloptions' -Value 0 -Type DWord -Force
 New-ItemProperty 'HKCU:\Software\Policies\Microsoft\Office\16.0\Common\Internet' 'useonlinecontent' -Value 0 -Type DWord -Force

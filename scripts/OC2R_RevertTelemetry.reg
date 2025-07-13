@@ -13,6 +13,7 @@ Windows Registry Editor Version 5.00
 "qmenable"=-
 "sendcustomerdata"=-
 "updatereliabilitydata"=-
+"linkedin"=-
 
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\General]
 "disableboottoofficestart"=-
@@ -25,6 +26,8 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Feedback]
 "enabled"=-
 "includescreenshot"=-
+"includeemail"=-
+"surveyenabled"=-
 
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Internet]
 "disableboottoofficestart"=-
