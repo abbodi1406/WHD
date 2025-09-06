@@ -1,0 +1,37 @@
+# Info
+
+* The following security updates are not needed, because later non-security updates  
+replace them and include the same security fixes.
+
+* However, due metadata rules, Windows Update might still offer those updates, especially for non-suite products.
+
+* Those updates are only needed to satisfy (silence) Windows Update.
+
+* You have the choice to install them, or leave and ignore in WU.
+
+* For more information:  
+https://learn.microsoft.com/officeupdates/msp-files-office-2016
+
+______________________________
+
+32-Bit Edition (x86)
+
+https://download.microsoft.com/download/86c79a63-5c16-4760-94b3-0326bf988de8/onenote2016-kb5002622-fullfile-x86-glb.exe
+https://download.microsoft.com/download/123e9cfb-70c3-44ce-b646-cd43b3af79d6/outlook2016-kb5002683-fullfile-x86-glb.exe
+https://download.microsoft.com/download/9/7/6/9760501b-c52f-4bc1-81bb-14ac685c5e72/lync2016-kb5002181-fullfile-x86-glb.exe
+https://download.microsoft.com/download/5/B/D/5BD34E3A-567A-4FAC-A69D-41C74DDCD929/osetup2016-kb4022172-fullfile-x86-glb.exe
+https://download.microsoft.com/download/b/8/7/b87da4cc-4b19-4d28-96ed-f0ae1cefd0e3/riched202016-kb5002058-fullfile-x86-glb.exe
+https://download.microsoft.com/download/8/1/4/8147ac76-c431-4693-ab52-ff16b49fbe55/stslist2016-kb5002052-fullfile-x86-glb.exe
+https://download.microsoft.com/download/a/b/a/aba88491-8a65-4797-80b9-e8bcece88d27/vbe72016-kb5002112-fullfile-x86-glb.exe
+
+______________________________
+
+64-Bit Edition (x64)
+
+https://download.microsoft.com/download/86c79a63-5c16-4760-94b3-0326bf988de8/onenote2016-kb5002622-fullfile-x64-glb.exe
+https://download.microsoft.com/download/123e9cfb-70c3-44ce-b646-cd43b3af79d6/outlook2016-kb5002683-fullfile-x64-glb.exe
+https://download.microsoft.com/download/1/f/f/1ff5e508-d6cf-4e1e-b53f-cdfb6aabbad1/lync2016-kb5002181-fullfile-x64-glb.exe
+https://download.microsoft.com/download/6/5/B/65B0AE3E-ED74-4138-AF8F-FE20B1F00DD7/osetup2016-kb4022172-fullfile-x64-glb.exe
+https://download.microsoft.com/download/1/6/2/162ee3dd-9f3e-4503-841c-a29014d201cd/riched202016-kb5002058-fullfile-x64-glb.exe
+https://download.microsoft.com/download/8/b/c/8bc084e3-ba58-45b2-9fe8-38fcb341947f/stslist2016-kb5002052-fullfile-x64-glb.exe
+https://download.microsoft.com/download/f/7/0/f7022887-e0a3-48d5-aa61-ba413f002eac/vbe72016-kb5002112-fullfile-x64-glb.exe
